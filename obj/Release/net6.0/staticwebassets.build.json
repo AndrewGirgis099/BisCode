@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "Ss5YxWN5d2L1BReN3QNg46xYua8AKKHH/ODJmKwOg3c=",
+  "Source": "BisWork",
+  "BasePath": "_content/BisWork",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BisWork\\wwwroot",
+      "Source": "BisWork",
+      "ContentRoot": "F:\\BisWork Backend\\BisWork Backend\\BisWork.Solution\\BisWork\\wwwroot\\",
+      "BasePath": "_content/BisWork",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
